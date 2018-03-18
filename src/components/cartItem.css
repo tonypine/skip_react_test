@@ -1,0 +1,16 @@
+.cartItem {
+  border: 1px solid #BE2C2C;
+  border-radius: 4px;
+  padding: 12px;
+}
+
+.cartItem + .cartItem {
+  margin-top: 8px;
+}
+
+.cartItem-removeFromCart {
+  height: 24px;
+  line-height: 24px;
+  float: right;
+  width: auto;
+}

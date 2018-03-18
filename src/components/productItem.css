@@ -1,0 +1,16 @@
+.productItem {
+  border: 1px solid #BE2C2C;
+  border-radius: 4px;
+  padding: 12px;
+}
+
+.productItem + .productItem {
+  margin-top: 8px;
+}
+
+.productItem-addToCart {
+  height: 24px;
+  line-height: 24px;
+  float: right;
+  width: auto;
+}

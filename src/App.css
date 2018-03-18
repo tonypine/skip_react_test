@@ -1,0 +1,48 @@
+.appHeader {
+  background-color: #BE2C2C;
+  height: 60px;
+  padding: 0 94px 0 24px;
+  line-height: 60px;
+  color: #fff;
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.appHeader-menu {
+  display: inline-block;
+  float: right;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.appHeader-menu a {
+  color: #fff;
+  text-decoration: none;
+  line-height: 60px;
+  display: inline-block;
+}
+
+.app-mainWrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 36px;
+}
+
+h1 {
+  margin: 0 0 12px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 24px;
+  margin: 0 0 12px;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}

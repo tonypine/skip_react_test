@@ -1,0 +1,10 @@
+.signUpForm {
+  max-width: 460px;
+  margin: 0 auto;
+}
+
+.signUpForm label {
+  line-height: 16px;
+  display: inline-block;
+  margin-bottom: 8px;
+}
